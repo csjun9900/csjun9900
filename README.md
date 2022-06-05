@@ -9,8 +9,8 @@
 
 <div align=center>
   
-<img src="https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=React&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/-Next-green?style=flat-square&logo=Next&logoColor=white"/></a>
+<!-- <img src="https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=React&logoColor=white"/></a> -->
+<!-- <img src="https://img.shields.io/badge/-Next-green?style=flat-square&logo=Next&logoColor=white"/></a> -->
 
   </div>
 
