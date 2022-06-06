@@ -1,6 +1,6 @@
 
   
-![header](https://capsule-render.vercel.app/api?height=180&text=Cheon%20Sejun&fontColor=black&fontSize=65&fontAlign=50&fontAlignY=60&color=gradient&customColorList=12&type=Wave&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?height=180&text=Cheon%20Sejun&fontColor=grey&fontSize=65&fontAlign=50&fontAlignY=60&color=gradient&customColorList=12&type=Wave&animation=fadeIn)
 
 
 
